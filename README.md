@@ -30,7 +30,7 @@ Målvariablen er:
 
 ## Notebook-indhold
 
-Analysen i [adfaerdsanalyse-af-global-ev-adoption.ipynb]("adfærdsanalyse af global EV adoption") omfatter:
+Analysen i [test](adfaerdsanalyse-af-global-ev-adoption.ipynb) omfatter:
 
 1. import og gennemgang af data
 2. eksplorativ dataanalyse (EDA)
