@@ -1,4 +1,4 @@
-# Global EV Adoption Behaviour 2026
+# Adfærdanalyse af Global EV Adoption
 
 Dette repository indeholder en analyse og et maskinlæringsprojekt, der undersøger hvilke faktorer der påvirker sandsynligheden for adoption af elbiler på tværs af forskellige befolkningsgrupper. Projektet er implementeret i et Jupyter Notebook og kombinerer eksplorativ dataanalyse med klassifikation ved hjælp af Random Forest og XGBoost.
 
@@ -97,7 +97,7 @@ Projektet er udviklet i Python med følgende hovedpakker:
 
 3. Åbn og kør notebook-filen:
 
-   [adfaerdsanalyse-af-global-ev-adoption.ipynb](global-ev-adoption-behavior-2026.ipynb)
+   [adfaerdsanalyse-af-global-ev-adoption.ipynb](adfaerdsanalyse-af-global-ev-adoption.ipynb)
 
 ## Projektstruktur
 
