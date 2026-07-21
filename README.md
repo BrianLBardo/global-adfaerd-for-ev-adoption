@@ -30,7 +30,7 @@ Målvariablen er:
 
 ## Notebook-indhold
 
-Analysen i [global-ev-adoption-behavior-2026.ipynb](global-ev-adoption-behavior-2026.ipynb) omfatter:
+Analysen i [adfaerdsanalyse-af-global-ev-adoption.ipynb]("adfærdsanalyse af global EV adoption") omfatter:
 
 1. import og gennemgang af data
 2. eksplorativ dataanalyse (EDA)
@@ -102,7 +102,7 @@ Projektet er udviklet i Python med følgende hovedpakker:
 ## Projektstruktur
 
 - [README.md](README.md) – projektoversigt og dokumentation
-- [global-ev-adoption-behavior-2026.ipynb](global-ev-adoption-behavior-2026.ipynb) – analyse- og modelleringsarbejde
+- [adfaerdsanalyse-af-global-ev-adoption.ipynb](adfaerdsanalyse-af-global-ev-adoption.ipynb) – analyse- og modelleringsarbejde
 - [global_ev_adoption_behavior_2026.csv](global_ev_adoption_behavior_2026.csv) – inputdatasæt
 - [LICENSE](LICENSE) – licensoplysninger
 
