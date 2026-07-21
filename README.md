@@ -1,0 +1,1 @@
+# global-adfaerd-for-ev-adoption
