@@ -97,7 +97,7 @@ Projektet er udviklet i Python med følgende hovedpakker:
 
 3. Åbn og kør notebook-filen:
 
-   [global-ev-adoption-behavior-2026.ipynb](global-ev-adoption-behavior-2026.ipynb)
+   [adfaerdsanalyse-af-global-ev-adoption.ipynb](global-ev-adoption-behavior-2026.ipynb)
 
 ## Projektstruktur
 
